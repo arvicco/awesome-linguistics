@@ -26,6 +26,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - Tools for Analysing Research Data 
 * [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 50 interactive visualizations under a user-friendly interface.
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+* [Nabu](https://github.com/arvicco/nabu) - Research infrastructure for ancient and historical language corpora; a local SQLite library of 2.4M documents across 255 sources with dictionary, cognate, alignment, concordance and etymology tools served over the Model Context Protocol.
 * [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
